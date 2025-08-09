@@ -4,7 +4,7 @@ def add(a, b):
 def subtract(a, b):a
     return a - b
 
-def multiply(a, b):12
+ multiply(a, b):12
     return a * b
 
 def divide(a, b):
