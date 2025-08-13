@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b amin fazayeli
+    return a + b amin 
 
 def subtract(a, b):a error
     return a - b
