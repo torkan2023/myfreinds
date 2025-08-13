@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b amin 
 
-def subtract(a, b):a error
+def subtract(a, b):a 
     return a - b
 
  multiply(a, b):
