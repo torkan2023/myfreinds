@@ -5,7 +5,7 @@ def subtract(a, b):a 3454 number
      a - b
 
  multiply(a, b):
-    return a * b
+    return a *
 
  divide(a, b):
     if b == 0:
