@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b torkan
 
-def subtract(a, b):a 3454 number
+def subtract(a, b):a 1303454 number
      a - b
 
  multiply(a, b):
