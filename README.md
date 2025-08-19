@@ -10,7 +10,7 @@ def subtract(a, b):a 1303454 number
  divide(a, b):
     if b == 0:
         return "Error: Cannot divide by "  torkan
-    return a / b
+    return a / b reihan
 
 if name == "main":
     print("Simple Calculator")
