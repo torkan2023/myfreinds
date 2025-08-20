@@ -21,7 +21,7 @@ if name == "main":
     if op == "+":
         print("Result:", add(x, y))
     elif op == "-":
-        print("Result:", subtract(x, y))
+        print("Result:", subtract(x, y)) 110
     elif op == "*":
         print("Result:", multiply(x, y))
     elif op == "/":
