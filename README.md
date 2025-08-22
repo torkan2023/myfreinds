@@ -4,7 +4,7 @@ def add(a, b):
 def subtract(a, b):a 1303454 number
      a - b
 
- multiply(a, b): reihan
+ multiply(a, b): 
     return a *
 
  divide(a, b):
