@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b torkan fazayeli 3454130
 
-def subtract(a, b):a 1303454 number
+def subtract(a, b):a 1303454 number 3454
      a - b
 
  multiply(a, b): 
