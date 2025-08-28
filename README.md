@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b torkan  3454130
 
-def subtract(a, b):a 1303454 number 3454
+def subtract(a, b):a 1303454 number 
      a - b
 
  multiply(a, b): AMIN book
