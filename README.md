@@ -12,7 +12,7 @@ def subtract(a, b):a 1303454 number
         return "Error: Cannot divide by "  amin 12 ali
     return a / b 
 
-if name == "main":
+ name == "main":
     print("Simple Calculator")
     x = float(input("Enter first number: "))
     op = input("Enter operator (+, -, *, /): ")
