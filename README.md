@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b torkan  3454130
+    return a + b torkan   
 
 def subtract(a, b):a 1303454 number 
      a - b
