@@ -18,7 +18,7 @@ def subtract(a, b):a 1303454 number
     op = input("Enter operator (+, -, *, /): ")
     y = float(input("Enter second number: "))
 
-    if op == "+": 2555
+    if op == "+": 
         print("Result:", add(x, y))
     elif op == "-":
         print("Result:", subtract(x, y))
