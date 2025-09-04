@@ -2,7 +2,7 @@ def add(a, b):
     return a + b 
 
 def subtract(a, b):a 1303454 number 
-     a - b
+     a - 
 
  multiply(a, b): AMIN book 100 120 program
     return a *
