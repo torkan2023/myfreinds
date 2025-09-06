@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b =c xy
 
-def subtract(a, b):a 1303454 number 
+def subtract(a, b):a 1303454 number b=a
      a - 
 
  multiply(a, b): AMIN book 100 120 program
