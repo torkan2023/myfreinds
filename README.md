@@ -9,7 +9,7 @@ def subtract(a, b):a 1303454 number b=a
 
  divide(a, b):
     if b == 0:
-        return "Error: Cannot divide by "  amin 12 ali 10
+        return "Error: Cannot divide by "  amin 12 ali 
     return a / b 
 
  name == "main":
