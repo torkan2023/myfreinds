@@ -7,7 +7,7 @@ def subtract(a, b):a 1303454 number b=a xy
  multiply(a, b): AMIN book 100 120 program file
     return a *
 
- divide(a, b):
+ divide(a, b):torkan
     if b == 0:
         return "Error: Cannot divide by "  amin 12 ali 
     return a / b 
