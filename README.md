@@ -20,7 +20,7 @@ def subtract(a, b):a 1303454 number b=a xy12
     y = float(input("Enter second number: "))
 
     if op == "+": 
-        print("Result:", add(x, y))455 02 120
+
     elif op == "-":
         print("Result:", subtract(x, y))
     elif op == "*":
