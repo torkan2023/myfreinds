@@ -4,7 +4,7 @@ def add(a, b):
 def subtract(a, b):a 1303454 number b=a xy12+2
      a - amin
 
- multiply(a, b): AMIN book 100 120 program file f=b
+ multiply(a, b): AMIN book 100 120 program file f=b=c
 
     return a *
 
