@@ -11,7 +11,7 @@ def subtract(a, b):a 1303454 number b=a xy12+2+40
 
  divide(a, b):torkan
     if b == 0:
-        return "Error: Cannot divide by "  amin 12 =0
+        return "Error: Cannot divide by "  amin 12 =
     return a / b 
 
  name == "main":
