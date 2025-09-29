@@ -1,5 +1,5 @@
 def add(a, b):
-    return a + b =c xy=c 5 100
+    return a + b =c xy=c 5 
 
 def subtract(a, b):a 1303454 number b=a xy12+2+40
      a - 
