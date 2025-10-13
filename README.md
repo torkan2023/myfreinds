@@ -4,7 +4,7 @@ def add(a, b):amin torkan
 def subtract(a, b):a 1303454 number b=a xy12+2+50
     - 
 
- multiply(a, b):   
+ multiply(a, b):   amin
 
     return a *
 
