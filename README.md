@@ -1,5 +1,5 @@
 def add(a, b):amin torkan
-    return a + b =c xy=c 
+    return a + b =c xy=c 12
 
 def subtract(a, b):a 1303454 number b=a xy12+2+50
     - 
