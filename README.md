@@ -4,7 +4,7 @@ def add(a, b):amin torkan
 def subtract(a, b):a 1303454 number b=a xy12+2+50=64
     - 
 
- multiply(a, b):ali h
+ multiply(a, b):ali h10
 
 
     return a *amin fz
