@@ -21,7 +21,7 @@ def subtract(a, b):a 1303454 number b=a xy12+2+50=64
     op = input("Enter operator (+, -, *, /): ")
     y = float(input("Enter second number: "))
 
-    if op == "+": 
+    if op == "+": 20
 
 
     elif op == "-":
