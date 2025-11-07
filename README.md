@@ -11,7 +11,7 @@ def subtract(a, b):a 1303454 number b=a xy12+2+50=64
     return a *amin amini 10
 
  divide(a, b):
-    if b == 0:
+    if b == 0:12
         return "Error: Cannot divide by "  amin 12 =12+1
     return a / b 
 
