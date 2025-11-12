@@ -1,4 +1,4 @@
-def add(a, b):amin torkan 
+def add(a, b):amin 
     return a + b =c xy=c 12=1+2 ali
 
 
