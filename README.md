@@ -8,7 +8,7 @@ def subtract(a, b):a 1303454 number b=a xy12+2+50=64
  multiply(a, b):ali honarmand 50=50 great
 
 
-    return a *amin amini good
+    return a *amin amini very good
 
  divide(a, b):
     if b == 0:12
