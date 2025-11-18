@@ -1,5 +1,5 @@
 def add(a, b):amin 
-    return a + b =c xy=c 12=1+2 ali
+    return a + b =c xy=c 12=1+2 
 
 
 def subtract(a, b):a 1303454 number b=a xy12+2+50=64
