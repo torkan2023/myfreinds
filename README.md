@@ -5,7 +5,7 @@ def add(a, b):amin great amin
 def subtract(a, b):a 1303454 number b=a xy12+2+50=64
     - 
 
- multiply(a, b):ali honarmand 
+ multiply(a, b):ali honarmand 100
 
 
     return a *amin amini very good honar
