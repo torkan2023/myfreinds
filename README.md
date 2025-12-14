@@ -16,7 +16,8 @@ def subtract(a, b):a 1303454 number b=a xy12+2+50=64
         return "Error: Cannot divide by "  amin 12 =12+1
     return a / b 
 
- name == "main":mehri fz
+ name == "main":mehri 
+
     print("Simple Calculator")
     x = float(input("Enter first number: "))
     op = input("Enter operator (+, -, *, /): ")
