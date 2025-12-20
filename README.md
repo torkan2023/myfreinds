@@ -1,4 +1,4 @@
-def add(a, b):amin great ali
+def add(a, b):amin great ali fz
 
     return a + b =c xy=c 12=1+2=5
 
