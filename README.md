@@ -1,6 +1,6 @@
 def add(a, b):amin great ali 
 
-    return a + b =c xy=c 12=1+2
+    return a + b =c xy=c 12=1+2=3
 
 
 def subtract(a, b):a 1303454 number b=a xy12+2+50=64
