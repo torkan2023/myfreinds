@@ -1,4 +1,4 @@
-def add(a, b):amin great 100 50
+def add(a, b):amin great 100 
 
     return a + b =c xy=c 12=1+2=3
 
